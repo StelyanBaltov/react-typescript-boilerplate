@@ -2,3 +2,21 @@
     display: flex;
     flex-direction: column;
 }
+
+.carousel {
+    width: 750px;
+}
+
+.container .item {
+    width: 100px;
+    height: 100px;
+}
+
+.label {
+    font-size: 50px;
+    text-align: center;
+}
+
+.bigContainer {
+    width: 100%;
+}
